@@ -1,7 +1,7 @@
 #Bem Vindo
 ---
 
-- 👋 Oi, eu sou @andriel22
+- 👋 Oi, eu sou @Andriel22
 - 👀 Estou interessado em programação, criar sites e apps
 - 🌱 Atualmente estou estudando sobre javascript
 - 💞️ Estou trabalhando com os projetos de Pensamento Computacional
